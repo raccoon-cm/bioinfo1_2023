@@ -1,0 +1,8 @@
+*.bam
+*.bai
+*.gtf
+.ipynb_checkpoints
+*.bed
+binfo1-datapack1
+binfo1-work
+*.fa
