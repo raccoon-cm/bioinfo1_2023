@@ -1,0 +1,23 @@
+ABCDEFGH
+ABCD
+BCDE
+CDEF
+…
+def(sequence, k):
+For I in range(len(sequence)-k+1):
+ABCDEEEE
+
+{read_seq: [counts, {ABCD: , BCDE: ,CDEF: }], }
+For seq, (counts, k_mers) in dct_read.items():
+	dctKmers.updates(k_mers)
+kmersDict
+Kmers: dict = 1
+kmers_dict
+
+GGG…….GUUU
+Fast -> Dataframe
+From collections import Counter:
+
+Read_seq	counts		{ABCD: , BCDE: ,CDEF: } <- 50%
+ABCDEFGH	3000
+
